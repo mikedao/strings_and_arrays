@@ -14,3 +14,9 @@ string, your method should return the original string.
 Write a method that will replace all spaces in a string with '%20'. This method
 will not replace any trailing spaces with %20.
 
+
+
+## Matrix Rotator - rotator_test.rb
+
+Write a method that will take an NxN matrix of numbers and rotate it 90 degrees
+clockwise.
